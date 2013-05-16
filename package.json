@@ -3,7 +3,7 @@
 , "publishConfig": { "tag": "alpha" }
 , "description": "contacts API"
 , "keywords": ["webinos", "contacts" , "API"]
-, "version": "0.8"
+, "version": "0.8.0"
 , "homepage": "http://developer.webinos.org/"
 , "author": "Paolo Vergori <vergori@ismb.it>, Michele Morello <morello@ismb.it>"
 , "repository":
