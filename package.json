@@ -17,7 +17,7 @@
 , "directories": { "contrib": "./contrib"
                  , "doc": "./doc"
                  , "lib": "./lib"
-                 , "node_modules": "./node_modules"
+                 , "wrt": "./wrt"
                  , "src": "./src"
                  , "test": "./test"
                  }
